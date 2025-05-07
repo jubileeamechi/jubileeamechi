@@ -50,7 +50,7 @@ Scraped real-time data and built a predictive model using linear regression and 
 
 ## ✍🏽 I Write Here Too
 
-- 💌 [Billy’s Effect – My Substack](https://substack.com/@beeleeinmotion)
+- 💌 [Beelee’s Effect – My Substack](https://substack.com/@beeleeinmotion)
 - 💼 [My LinkedIn](https://ng.linkedin.com/in/jubilee-amechi-523b9425b)
 
 ---
