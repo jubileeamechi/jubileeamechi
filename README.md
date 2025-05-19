@@ -43,7 +43,7 @@ Solved business problems including revenue decline, customer segmentation, and i
 ### 🧠 [SQL Library Database](https://github.com/jubileeamechi/SQL_Projects)
 Performed deep analysis on borrowing patterns, member engagement, and late return behaviors using complex SQL queries.
 
-### 🐍 [Python Web Scraping & Predictive Project](https://github.com/jubileeamechi/PythonProjects)
+### 🐍 [Python Web Scraping & Predictive Project](https://github.com/jubileeamechi/jubileeamechi-Python-Data-Science-Projects)
 Scraped real-time data and built a predictive model using linear regression and exploratory analysis.
 
 ---
