@@ -40,7 +40,7 @@ An interactive dashboard that visualizes top-rated movies, directors, and genre 
 ### 📈 [Advanced Excel Capstone](https://github.com/jubileeamechi/Advanced_Excel_Projects)
 Solved business problems including revenue decline, customer segmentation, and inventory management using Excel analytics.
 
-### 🧠 [SQL Library Database](https://github.com/jubileeamechi/SQL_Projects)
+### 🧠 [SQL Library Database](https://github.com/jubileeamechi/library-database-sql-analysis)
 Performed deep analysis on borrowing patterns, member engagement, and late return behaviors using complex SQL queries.
 
 ### 🐍 [Python Web Scraping & Predictive Project](https://github.com/jubileeamechi/jubileeamechi-Python-Data-Science-Projects)
