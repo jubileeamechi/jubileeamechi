@@ -37,7 +37,7 @@ Data Analysis • Business Intelligence • SQL • Excel • Power BI • Pytho
 ### 📊 [Power BI IMDB Dashboard](https://github.com/jubileeamechi/PowerBI-Projects)
 An interactive dashboard that visualizes top-rated movies, directors, and genre trends.
 
-### 📈 [Advanced Excel Capstone](https://github.com/jubileeamechi/Advanced_Excel_Projects)
+### 📈 [Advanced Excel Capstone](https://github.com/jubileeamechi/Excel-Capstone-SalesAnalysis)
 Solved business problems including revenue decline, customer segmentation, and inventory management using Excel analytics.
 
 ### 🧠 [SQL Library Database](https://github.com/jubileeamechi/library-database-sql-analysis)
