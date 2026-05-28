@@ -35,9 +35,9 @@ Statistical Modeling • Biostatistics • Python (Pandas) • SQL & Relational 
 
 ## 📂 Featured Projects
 
-### 🐍 [Python Web Scraping & Predictive Engineering](https://github.com/jubileeamechi/jubileeamechi-Python-Data-Science-Projects)
-Designed and deployed an end-to-end Python data pipeline that extracts unstructured web data, performs advanced exploratory data analysis (EDA), and applies linear regression models to accurately forecast target variables.
-
+ ### 🐍 [Python Data Science & Computational Pipelines](https://github.com/jubileeamechi/jubileeamechi-Python-Data-Science-Projects)
+ Advanced Python workflows demonstrating versatility in both specialized biological data pipelines and automated web data extraction. 
+ 
 ### 🧠 [SQL Relational Database & Complex Analysis](https://github.com/jubileeamechi/library-database-sql-analysis)
 Engineered a relational database schema from scratch. Executed multi-table JOINs, nested subqueries, and conditional aggregations to audit large transactional data structures and model behavioral patterns.
 
