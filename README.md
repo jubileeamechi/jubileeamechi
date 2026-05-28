@@ -55,5 +55,3 @@ Built a dynamic business intelligence dashboard visualizing dense, multi-attribu
 
 - 💌 [Beelee’s Effect – My Substack](https://substack.com/@beeleeinmotion)
 - 💼 [My LinkedIn](https://ng.linkedin.com/in/jubilee-amechi-523b9425b)
-’m actively learning and growing—feel free to connect or collaborate!
-
